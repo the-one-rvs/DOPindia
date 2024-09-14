@@ -26,6 +26,7 @@
     "qrcode.react": "^4.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-scripts": "^4.0.3",
     "react-helmet-async": "^2.0.5",
     "react-i18next": "^15.0.1",
     "react-icons": "^5.3.0",
@@ -39,6 +40,7 @@
     "scroll-lock": "^2.1.5",
     "shadcn-ui": "^0.9.0",
     "slick-carousel": "^1.8.1",
+    "vite-plugin-pwa": "^0.20.5",
     "zxing": "^0.1.2"
   },
   "devDependencies": {
